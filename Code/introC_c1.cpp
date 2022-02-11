@@ -39,7 +39,22 @@ int main() {
     //     cout << "*" << endl;
     // }
     
-
+    // Point my_point = {0, 0};
+    // int closest = 26955;
+    // for (int i = 0; i < 5; i++) {
+    //     double dist  = sqrt(pow((my_point.x - randoms[i].x), 2) + pow(my_point.y - randoms[i].y, 2));
+    //     int d = int(dist);
+    //     if (dist < closest) {
+    //         closest = d;
+    //     }
+    //     cout << i << "\t" << d << endl;
+    // }
+    
+    // int N = 6;
+    // for (int i = 0; i <= (N + 1) * 2; i++) {
+    //     cout << N*3 + i*2 << " ";
+    // }
+    
 
     return 0;
 }
