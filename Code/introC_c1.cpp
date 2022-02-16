@@ -117,9 +117,10 @@ int main() {
     // printf("a = %d\n", a);
     // printf("x = %d\n", x);
 
-    cout << Results::Excellent;
+    // cout << Results::Excellent;
     
-
+    double d = 4.669;
+    printf("My number is %.2f.",d);
 
     return 0;
 }
